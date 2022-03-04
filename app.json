@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Akbotmakersnew/LuciferVCbot-1",
+    "repository": "https://github.com/ATHIF-EFX/MW-VcPlayer",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
