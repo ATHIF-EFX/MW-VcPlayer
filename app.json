@@ -12,12 +12,12 @@
         "SESSION": {
             "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
             "required": true,
-            "value": ""
+            "value": "AQB977JwzyXmSrz5s3RUNXujDZo5yxarwbKCDUzASsMTASO8eNxaXfUKPG0JXyZTbSMIY73xEL3ohIV-0-s8lnxzO040fWGlgDrmMQhfsXwwjFM3OofZ5Ov7fOtGBTrGlogfADY3dU2iAX2eLUoS4KJZ4L5GSmE7g6Ci1gobNOc7uGKoUiRT_WNyD-z6KogIYnfG2zZYus3C4wbxH3-ViB2CTRiHfN2KYNWPJngz-AzfyGK1kbOsmkaA7koa2pVMYeenXEkmVujHEtdes2yksTHoxErCX0SVz3q-6BqfdKsb5Sv2FnmBn5b1sK49mM9Hu2NrPP2tOE6uhfwSrYJmNYukAAAAATf473YA"
         },
         "API_ID": {
             "description": "Your api id from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "17917158"
         },
         "HNDLR": {
             "description": "Set handler",
@@ -27,12 +27,12 @@
         "API_HASH": {
             "description": "Your api hash from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "8fe5d8631479706a12dc3d39abf096df"
         },
         "SUDO_USERS": {
             "description": "User ID list user counts as admin everywhere(separator using space)",
             "required": true,
-            "value": ""
+            "value": "5234028406 1099497360"
         }
     },
     "addons": [],
