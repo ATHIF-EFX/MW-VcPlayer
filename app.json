@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/ATHIF-EFX/MW-VcPlayer",
+    "repository": "https://github.com/RJMALLU/MW-VcPlayer",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
